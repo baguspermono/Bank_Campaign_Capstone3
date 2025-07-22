@@ -1,4 +1,4 @@
-# Bank Marketing Campaign - Prediksi Deposito Nasabah
+# Bank Marketing Campaign
 
 **Author:** Bagus Permono  
 **Project:** Analisis & Prediksi Nasabah Potensial Deposito Menggunakan Machine Learning
